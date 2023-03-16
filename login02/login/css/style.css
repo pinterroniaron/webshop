@@ -1,0 +1,103 @@
+body {
+  background-color: black;
+}
+/* links */
+a:link {
+  color: #f2cc8f;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(149, 75, 0);
+  text-decoration: none;
+}
+a:visited {
+  color: #f2cc8f;
+  text-decoration: none;
+}
+a:active {
+  color: #f2cc8f;
+  text-decoration: none;
+}
+
+/* header div */
+
+.wrapper {
+  text-align: left;
+}
+
+/* login and signup buttons */
+
+.float {
+  float: right;
+  margin: 10px;
+  font-size: 15px;
+}
+
+a {
+  font-size: 30px;
+}
+fieldset {
+  border-color: #f2cc8f;
+}
+/* HERE THE HEADER ENDS and the INDEX STARTS */
+
+p {
+  color: #f2cc8f;
+  text-align: center;
+  font-size: 25px;
+}
+
+.headers {
+  color: #f2cc8f;
+  text-align: center;
+  text-align: center;
+  font-style: italic;
+}
+
+/* LOGIN */
+
+h1 {
+  color: #f2cc8f;
+  text-align: center;
+  font-family: papyrus;
+}
+.labels {
+  color: #f2cc8f;
+  font-size: 25px;
+}
+form {
+  text-align: center;
+}
+fieldset {
+  border-color: #f2cc8f;
+}
+legend {
+  text-align: center;
+  color: #f2cc8f;
+}
+.inputs {
+  background-color: rgb(242, 204, 143, 0.7);
+  font-size: 17px;
+}
+::placeholder {
+  color: black;
+}
+#submitbtn {
+  background-color: #f9bd5d;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+#login {
+  width: 300px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#signUp {
+  width: 300px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}

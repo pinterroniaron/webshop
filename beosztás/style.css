@@ -1,0 +1,11 @@
+th {
+  color: black;
+  background-color: greenyellow;
+}
+table,
+tr,
+th,
+td {
+  border: 1px solid;
+  border-radius: 10px;
+}

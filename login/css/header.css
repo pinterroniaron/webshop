@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+}
+li {
+  color: #f2cc8f;
+  list-style-type: none;
+  font-size: 30px;
+  display: inline-block;
+}
+a:link {
+  color: rgb(149, 75, 0);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(149, 75, 0);
+  text-decoration: none;
+}
+a:visited {
+  color: #f2cc8f;
+  text-decoration: none;
+}
+a:active {
+  color: rgb(149, 75, 0);
+  text-decoration: none;
+}
+
+.wrapper {
+  text-align: left;
+}
+
+fieldset {
+  border-color: #f2cc8f;
+}
+
+.float {
+  float: right;
+  margin: 10px;
+  font-size: 15px;
+}
+
+a {
+  font-size: 30px;
+}
+
+p {
+  color: #130d04;
+  text-align: center;
+  font-size: 25px;
+}
